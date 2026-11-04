@@ -1,0 +1,6 @@
+{
+  "name": "BriefTube - Long Video Bullet Summarizer",
+  "description": "Transforms long YouTube video transcripts and key segments into clear, concise, highly understandable bullet points tailored for instant comprehension.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
